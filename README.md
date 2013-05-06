@@ -1,4 +1,4 @@
-blog
+this is learsu's blog, articles records my progress in learning 
 ====
 
-blog
+this is learsu's blog, articles records my progress in learning,learsu@gmail.com. tks
